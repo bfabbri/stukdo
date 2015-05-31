@@ -12,6 +12,9 @@ gem 'simple_form'
 # Devise
 gem 'devise'
 
+#Auto detect video, images and etc.
+gem 'auto_html'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.1'
 # Use sqlite3 as the database for Active Record
