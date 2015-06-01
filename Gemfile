@@ -10,7 +10,7 @@ gem 'font-awesome-rails'
 gem 'simple_form'
 
 # Devise
-gem 'devise'
+gem 'devise', '~> 3.5.1'
 
 #Auto detect video, images and etc.
 gem 'auto_html'
